@@ -34,3 +34,8 @@ if that is a more convenient way to organize work.
 All in-person participants should have received instructions to set up an account
 that will allow us to book their flights and hotels, if needed.
 Please contact Oscar Esteban or Chris Markiewicz immediately if you have not.
+
+## Questions?
+
+If you have any questions, please [open an issue](https://github.com/nipreps/202405-sprint/issues)
+on this website's repository.
