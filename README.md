@@ -8,6 +8,8 @@ Participants will work in small groups on existing nipreps projects and find poi
 The meeting will take place at the McGovern Institute for Brain Research
 ([OpenStreetMaps](https://www.openstreetmap.org/node/182895807), [Google Maps](https://maps.app.goo.gl/5gtY1KG1vWiunrfj7)).
 
+We will meet each morning in room 5165.
+
 ## Schedule
 
 NOTE: All times tentative.
