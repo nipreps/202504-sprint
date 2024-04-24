@@ -12,7 +12,7 @@ The meeting will take place at the McGovern Institute for Brain Research
 
 NOTE: All times tentative.
 
-<img src="schedule.png" alt="Meeting Schedule" width="90%"/>
+![image](https://github.com/nipreps/202405-sprint/assets/83442/27ac52bb-1fad-46af-bfef-673a65caaeca "Meeting Schedule")
 
 ## Lodging and Logistics
 
