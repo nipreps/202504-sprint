@@ -14,7 +14,7 @@ The meeting room is currently TBD.
 
 NOTE: All times tentative.
 
-![image](https://github.com/nipreps/202405-sprint/assets/83442/e7e75e81-6636-4cba-8170-313dec1005c7 "Meeting Schedule")
+![image](https://github.com/user-attachments/assets/ac483b9b-3e4b-4deb-b9c0-b8f3f62561a0)
 
 The general structure is intentionally free-form, to allow participants to self-organize.
 We will begin each day with a period for planning, checking in, and requesting assistance from the whole group.
