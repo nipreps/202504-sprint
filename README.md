@@ -14,7 +14,7 @@ The meeting room is currently TBD.
 
 NOTE: All times tentative.
 
-![image](https://github.com/user-attachments/assets/ac483b9b-3e4b-4deb-b9c0-b8f3f62561a0)
+![image](https://github.com/user-attachments/assets/8e1ef009-63f1-4c14-a894-62a3f714e4cd)
 
 The general structure is intentionally free-form, to allow participants to self-organize.
 We will begin each day with a period for planning, checking in, and requesting assistance from the whole group.
