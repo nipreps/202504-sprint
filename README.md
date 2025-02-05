@@ -1,4 +1,4 @@
-# Nipreps sprint, Cambridge, MA, May 15-17, 2024
+# Nipreps sprint, Cambridge, MA, April 30 - May 2, 2025
 
 The purpose of this meeting is to advance Nipreps development. <br>
 Participants will work in small groups on existing nipreps projects and find points of overlap and new collaborations.
@@ -8,7 +8,7 @@ Participants will work in small groups on existing nipreps projects and find poi
 The meeting will take place at the McGovern Institute for Brain Research
 ([OpenStreetMaps](https://www.openstreetmap.org/node/182895807), [Google Maps](https://maps.app.goo.gl/5gtY1KG1vWiunrfj7)).
 
-We will meet each morning in room 5165.
+The meeting room is currently TBD.
 
 ## Schedule
 
@@ -23,7 +23,7 @@ We strongly encourage taking walks and coffee breaks as needed, and space can be
 
 ## Agenda
 
-We are using a [collaboratively edited agenda](https://hackmd.io/@NiPreps-technical-monitoring/2024-hackathon-agenda/edit)
+We are using a [collaboratively edited agenda](https://hackmd.io/@NiPreps-technical-monitoring/NiHack2025)
 on the HackMD platform.
 Please use this to propose projects or points of discussion.
 Projects are welcome to link to GitHub issues or discussions,
@@ -37,5 +37,5 @@ Please contact Oscar Esteban or Chris Markiewicz immediately if you have not.
 
 ## Questions?
 
-If you have any questions, please [open an issue](https://github.com/nipreps/202405-sprint/issues)
+If you have any questions, please [open an issue](https://github.com/nipreps/202504-sprint/issues)
 on this website's repository.
