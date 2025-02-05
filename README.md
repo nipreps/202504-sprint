@@ -1,10 +1,10 @@
-# Nipreps sprint, Cambridge, MA, April 30 - May 2, 2025
+# NiPreps sprint, Cambridge, MA, April 30 - May 2, 2025
 
 ![image](https://nipreps.org/assets/nipreps-transparent.png)
 
-Thank you for participating in the 2025 Nipreps sprint!
+Thank you for participating in the 2025 NiPreps sprint!
 
-The purpose of this meeting is to advance Nipreps development. <br>
+The purpose of this meeting is to advance NiPreps development. <br>
 Participants will work in small groups on existing nipreps projects and find points of overlap and new collaborations.
 
 ## Location
