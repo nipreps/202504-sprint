@@ -1,6 +1,6 @@
 # Nipreps sprint, Cambridge, MA, April 30 - May 2, 2025
 
-![image](https://github.com/nipreps/nipreps.github.io/blob/mkdocs/docs/assets/nipreps-transparent.png)
+![image](https://nipreps.org/assets/nipreps-transparent.png)
 
 Thank you for participating in the 2025 Nipreps sprint!
 
